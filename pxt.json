@@ -10,7 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "sumaDeDosNumeros.md"
+        "01_sumaDeVariables.md"
     ],
     "testFiles": [
         "test.ts"
