@@ -1,4 +1,4 @@
-# Suma de dos números
+# Suma de variables
 
 ## Paso 1 @showdialog
 
