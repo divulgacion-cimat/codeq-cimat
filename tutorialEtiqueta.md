@@ -12,7 +12,7 @@ Pulsa en la categoría `||basic:Básico||` en la Caja de herramientas. Arrastra 
 
 ```blocks
 basic.forever(function() {
-    basic.showString("My Name");
+    basic.showString("Tu nombre");
 })
 ```
 
