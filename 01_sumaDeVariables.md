@@ -63,3 +63,11 @@ basic.showString("=")
 basic.showNumber(a + b)
 
 ```
+
+```validation.global
+# BlocksExistValidator
+```
+
+```template
+//
+```
