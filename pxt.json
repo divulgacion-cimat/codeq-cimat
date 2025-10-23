@@ -15,7 +15,8 @@
         "tutorialEmojis.md",
         "tutorialEtiqueta.md",
         "tutorialCorazon.md",
-        "tutorialAmor.md"
+        "tutorialAmor.md",
+        "tutorialChat.md"
     ],
     "testFiles": [
         "test.ts"
