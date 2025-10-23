@@ -46,7 +46,7 @@ input.onButtonPressed(Button.B, function() {
 En el simulador de la @boardname@ en pantalla presiona el botón **B**. ¿Ves una cara triste? ⭐ ¡Buen trabajo! ⭐
 
 
-## {Step 7}
+## {Step 6}
 
 Aprende más acerca de cómo funcionan los botones de la @boardname@ viendo [este vídeo](https://youtu.be/t_Qujjd_38o).
 

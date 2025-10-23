@@ -50,7 +50,7 @@ Pulsa el botón blanco **SHAKE** de nuevo en el simulador. ¿Ves aparecer númer
 
 ## {Step 6}
 
-Ve más allá: ¡intenta añadir algunos bloques de Música para que suene como si estuvieras agitando unos dados o usa las luces LED de la @boardname@ para mostrar los puntos del dado en lugar de números. ¿Quieres aprender cómo funcionan el detector de movimiento o el acelerómetro? [Mira este vídeo](https://youtu.be/byngcwjO51U).
+¿Quieres aprender cómo funcionan el detector de movimiento o el acelerómetro? [Mira este vídeo](https://youtu.be/byngcwjO51U).
 
 ```validation.global
 # BlocksExistValidator
