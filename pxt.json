@@ -10,7 +10,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "01_sumaDeVariables.md"
+        "01_sumaDeVariables.md",
+        "tutorialDado.md"
     ],
     "testFiles": [
         "test.ts"
