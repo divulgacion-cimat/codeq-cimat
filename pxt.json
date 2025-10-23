@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "01_sumaDeVariables.md",
-        "tutorialDado.md"
+        "tutorialDado.md",
+        "tutorialEmojis.md"
     ],
     "testFiles": [
         "test.ts"
