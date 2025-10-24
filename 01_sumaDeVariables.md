@@ -1,6 +1,6 @@
 # Suma de variables
 
-## {Introduction @unplugged}
+## Suma de variables @unplugged
 
 Vamos a sumar dos variables y mostrar el resultado
 
