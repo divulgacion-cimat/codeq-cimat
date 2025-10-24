@@ -16,7 +16,8 @@
         "tutorialEtiqueta.md",
         "tutorialCorazon.md",
         "tutorialAmor.md",
-        "tutorialChat.md"
+        "tutorialChat.md",
+        "02_recorrerLeds.md"
     ],
     "testFiles": [
         "test.ts"
