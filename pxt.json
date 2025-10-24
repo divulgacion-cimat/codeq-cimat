@@ -17,7 +17,8 @@
         "tutorialCorazon.md",
         "tutorialAmor.md",
         "tutorialChat.md",
-        "02_recorrerLeds.md"
+        "02_recorrerLeds.md",
+        "03_pidraPapelTijeras.md"
     ],
     "testFiles": [
         "test.ts"

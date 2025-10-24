@@ -1,7 +1,11 @@
-basic.forever(function () {
-    for (let index = 0; index <= 4; index++) {
-        led.plot(index, 2)
+input.onGesture(Gesture.Shake, function () {
+    for (let i = 0; i <= 4; i++) {
+        for (let j = 0; j <= 4; j++) {
+            led.plot(i, j)
+        }
         basic.pause(1000)
-        led.unplot(index, 2)
+        for (let j = 0; j <= 4; j++) {
+            led.unplot(i, j)
+        }
     }
 })
