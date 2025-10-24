@@ -40,7 +40,7 @@ basic.forever(function() {
 
 ## {Step 4}
 
-Esto es porque dichas instrucciones se ejecutan de forma muy rápida. Coloque un bloque `||basic:pausa||` entre ambas instrucciones, cambie el tiempo a **1 segundo** y observe como parpadea el LED. 
+Esto es porque dichas instrucciones se ejecutan de forma muy rápida. Coloque un bloque `||basic:pausa||` entre ambas instrucciones y observe como ahora parpadea el LED. 
 
 ```blocks
 basic.forever(function() {
@@ -87,6 +87,9 @@ basic.forever(function () {
 
 Reforcemos lo aprendido. Ahora cambie el código y haga que se enciendan uno por uno los LEDs de la columna central. ¿Cómo haría para que se enciendan los de la diagonal?
 
+```blockconfig.global
+basic.pause(1000)
+```
 
 ```template
 basic.forever(function() {})
