@@ -1,6 +1,6 @@
 # Suma de variables
 
-## Paso 1 @showdialog
+## {Introduction @unplugged}
 
 Vamos a sumar dos variables y mostrar el resultado
 
