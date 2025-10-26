@@ -18,6 +18,7 @@ basic.forever(function() {
 ## {Step 2}
 
 Como habrán observado, el LED en la posición *x=0* y *y=0* corresponde a la esquina superior izquierda. Si aumentas los valores de *x* o *y*, el LED encendido se desplazará hacia la derecha o hacia abajo, respectivamente. 
+
 Modifica los valores de *x* y *y* para encender el LED del centro.
 
 ```blocks
@@ -71,6 +72,7 @@ basic.forever(function () {
 ## {Step 6}
 
 En el ciclo for verá la variable  `||variable:index||`. Esta variable toma valores desde 0 hasta 4. Arrástrala para reemplazar los valores de *x* en los bloques `||led:graficar||` y `||led:ocultar||`. 
+
 Ahora verás cómo se encienden uno por uno los LEDs de la fila central.
 
 ```blocks
