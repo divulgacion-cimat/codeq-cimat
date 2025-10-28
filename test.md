@@ -10,7 +10,7 @@ Test for robot
 
 ## Mostando las variables
 
-`|microbit-robot:robot|` **robot**
+`|robot:robot|` **robot**
 
 ```blocks
 // @validate-exists
