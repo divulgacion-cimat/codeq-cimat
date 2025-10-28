@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "microbit-robot": "github:microsoft/microbit-robot#v2.7.4"
+        "microbit-robot": "github:microsoft/microbit-robot#v2.7.4",
+        "ws2812b": "github:microsoft/pxt-ws2812b#v0.1.2"
     },
     "files": [
         "main.blocks",
