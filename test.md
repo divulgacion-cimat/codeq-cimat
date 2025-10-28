@@ -10,7 +10,7 @@ Test for robot
 
 ## Mostando las variables
 
-`|robot:robot|` **robot**
+`||robot:robot||` **robot**
 
 ```blocks
 // @validate-exists
