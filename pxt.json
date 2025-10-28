@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "microbit-robot": "github:microsoft/microbit-robot#v2.7.4"
     },
     "files": [
         "main.blocks",
@@ -18,7 +19,8 @@
         "tutorialAmor.md",
         "tutorialChat.md",
         "02_recorrerLeds.md",
-        "03_pidraPapelTijeras.md"
+        "03_pidraPapelTijeras.md",
+        "test.md"
     ],
     "testFiles": [
         "test.ts"
